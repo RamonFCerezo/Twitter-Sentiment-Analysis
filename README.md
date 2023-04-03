@@ -29,5 +29,17 @@ As part of the final tests of TheBridge Data Science Bootcamp, participants were
 <h2>Necessary libraries</h2>
 
 ```
-aaaaaaaaaaaaaaaaaa
+demoji==1.1.0
+eli5==0.13.0
+langdetect==1.0.9
+matplotlib==3.5.3
+nltk==3.8.1
+pandas==1.3.5
+pickleshare==0.7.5
+PyMySQL==1.0.2
+regex==2022.10.31
+seaborn==0.12.1
+snscrape==0.3.4
 ```
+
+Thank you so much for your attention! Do not hesitate in getting in contact with me for any question, comment or collaboration.
