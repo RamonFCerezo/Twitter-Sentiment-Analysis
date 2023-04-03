@@ -28,6 +28,6 @@ As part of the final tests of TheBridge Data Science Bootcamp, participants were
 
 <h2>Necessary libraries</h2>
 
-'''
+```
 aaaaaaaaaaaaaaaaaa
-'''
+´´´
