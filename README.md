@@ -1,3 +1,5 @@
+<h1>Twitter Sentiment Analysis - TheBridge</h1>
+
 As part of the final tests of TheBridge Data Science Bootcamp, participants were requested to monitor the school's Twitter account using the knowledge acquired during the course. This technical test was followed by a subsequent technical interview, where candidates had the opportunity to present and defend their work, as well as to answer questions related to the world of Data Science.
 
 <div id="header" align="center">
